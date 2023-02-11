@@ -1,0 +1,107 @@
+.body{
+    /* background-color: rgb(233, 233, 233); */
+    /* background-color: rgb(255, 255, 255); */
+    background-image: url(bg4.jpg);
+}
+#img02{
+    height: 85vh;
+}
+.Serviços{
+    margin-top: 35px;
+}
+#card03_img{
+    height: 47vh;
+}
+#text_serviços{
+    /* text-emphasis-color: aliceblue;
+    text-decoration-color: aliceblue; Didn't Work*/
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+}
+#text_contact{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+}
+#adress{
+    color: rgb(255, 255, 255);
+}
+#adress_title{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter; 
+}
+#adress_text{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;  
+}
+#stetic_title{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter; 
+    color: rgb(253, 252, 252);   
+}
+#stetic_text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter; 
+    color: rgb(253, 252, 252);
+}
+#about_title{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter; 
+}
+#about_text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter; 
+}
+.card{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+#contact_card{
+    border-color: aliceblue;
+    border-radius: 5px;
+    display: flex;
+    /* display: inline; */
+    background-image: url(bg4.jpg);
+    margin-top: 50px;
+}
+#WhatsAppLogo{
+    height: 100px;
+    width: 100px;
+}
+#text_card03{
+    font-size: x-small;
+}
+#card05{
+    display: flex;
+    align-items: flex-start;
+}
+#insta_logo{
+    width: 80px;
+    height: 80px;
+}
+#faceb_logo{
+    width: 70px;
+    height: 70px;
+}
+html {
+    scroll-behavior: smooth;
+   }
+   
+   a {
+    text-decoration: none;
+    color: black;
+   } 
+   
+   #down {
+    margin-top: 100%;
+    padding-bottom: 25%;
+   } 
+#joelma{
+    width: 400px;
+    height: auto;
+}
